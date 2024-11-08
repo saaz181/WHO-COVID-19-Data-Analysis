@@ -94,3 +94,6 @@ Therefore, while interpolation methods can provide insights into short-term tren
 or local variations, they should be complemented with rigorous epidemiological
 modeling and scenario analysis for comprehensive pandemic forecasting and
 planning.
+
+
+**NOTE:** The  WHO data that used in this project is in public access.
